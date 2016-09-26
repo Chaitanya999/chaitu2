@@ -20,6 +20,7 @@
     NSLog(@"HI");
     NSLog(@"HEllo");
     NSLog(@"hi chaitu");
+    NSLog(@"hi chaithu ");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
