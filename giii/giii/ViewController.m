@@ -19,6 +19,7 @@
     
     NSLog(@"HI");
     NSLog(@"HEllo");
+    NSLog(@"hi chaitu");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
